@@ -27,13 +27,6 @@ A feature-rich, modern Todo application built with React and Vite, featuring a b
 - ⌨️ Keyboard shortcuts
 - 🔔 Toast notifications for actions
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (version 14 or higher)
-- npm or yarn
-
 
 ## 🛠️ Built With
 
